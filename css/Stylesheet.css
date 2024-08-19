@@ -1,0 +1,18 @@
+[data-testid="baseButton-secondaryFormSubmit"]{
+        display: block;
+        margin: auto;
+        width: 53%;
+        background-color: #6200ee;
+        color: white;
+}
+
+.stForm > header{
+    text-align: center;
+}
+.stForm > body{
+    width: 80%;
+}
+.stForm > button{
+    align-items: center;
+}
+
